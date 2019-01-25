@@ -209,7 +209,7 @@ Final Project Proposal Assignment - 3%
 #### 15% - Web Development, Documentation &amp; Portfolio
 
 Website live – 5%
-
+20
 Portfolio with project documentation, short descriptions, and artist statement — 10%
 
 <br><br>
