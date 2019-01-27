@@ -44,6 +44,8 @@ This studio workshop course is an in-depth study of video as an art form in the 
 # ▼△▼△▼ Resources
 This is the Github page for the class! We will also be using Canvas for submitting assignments, but will be posting all lecture notes and tutorials here. The [resources page](resources) includes a few useful files and a long list of handy links. <br><br>
 
+Refer to the [tutorials index page](tutorials) for a quick reference to tutorials covered in the course.
+
 # ▼△▼△▼ Assignments
 
 Assignments overview, detailed below:
@@ -63,6 +65,7 @@ Assignments overview, detailed below:
 
 
 <br>
+
 ## ┍━━━☟ Projects ☟━━━┑
 
 #### Project 1: Video Art 2.0.19
