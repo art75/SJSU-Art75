@@ -64,6 +64,7 @@ Assignments overview, detailed below:
 
 <br>
 ## ┍━━━☟ Projects ☟━━━┑
+
 #### Project 1: Video Art 2.0.19
 15% of grade
 
