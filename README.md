@@ -235,3 +235,33 @@ Portfolio with project documentation, short descriptions, and artist statement �
 # ▼△▼△▼ Code of conduct
 
 *We will work together in the first week of class to draft a list of community agreements for the class*
+
+## Section 5
+* Be respectful - don't interrupt eachother
+* Break for 15 min at 10:30
+* Be open-minded - be sympathetic of other perspectives
+* Be comfortable with silence, people might need time to collect thoughts
+* Take space, leave space
+* We are accepting of language difference
+* Be on time
+* End on time
+* Don't come to class sick
+* If you need help, don't be afraid to ask
+  - Ask the person next to you
+* Take care of yourself, go to the bathroom if you need to!
+* Be friendly
+* Mind your manners
+  - courtesy - please / thank you
+  - respect personal space - ask before touch
+  - mind open beverage containers
+* Be as creative as you can, no right or wrong answers
+  - Think outside of the box
+* Address ideas not the person
+* Ouch, oops, educate
+
+
+
+
+
+
+*
