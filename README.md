@@ -236,6 +236,30 @@ Portfolio with project documentation, short descriptions, and artist statement â
 
 *We will work together in the first week of class to draft a list of community agreements for the class*
 
+
+
+## Section 4
+
+* Take a 15 minute break at 1:30
+* Start on time, but be patient if Lark has to set stuff up
+* Don't interrupt people
+* You can snack but be mindful of sound and personal space
+* Listening to music in Lab is okay, but not other times
+* Have positive feedback as well as constructive criticism
+* No stealing
+* Don't text during critique
+* Be open to people having different perspectives
+* Have fun
+* Don't be afraid to ask for help
+* Be respectful of other people's space
+* No fighting - no physical violence
+* Be sensitive to others needs
+* Take space, leave space
+* Ouch, oops, educate
+
+
+
+
 ## Section 5
 * Be respectful - don't interrupt eachother
 * Break for 15 min at 10:30
@@ -257,7 +281,7 @@ Portfolio with project documentation, short descriptions, and artist statement â
 * Be as creative as you can, no right or wrong answers
   - Think outside of the box
 * Address ideas not the person
-* Ouch, oops, educate
+* Ouch, oops/educate
 
 
 
