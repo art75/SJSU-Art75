@@ -30,7 +30,7 @@ Check out links to suggested web tutorials on the [resources page](../resources)
 * [Recording Audio](tuts/02c_recordingAudio)
 * [Filmic Conventions (types of shots and continuity editing)](tuts/02d_filmicConventions)
 * [Lighting and Green Screens](tuts/02f_lightingAndGreenScreen)
-* [Convention Examples](tuts/02e_ConventionExamples)
+
 
 **Web Development Basics**
 * [HTML/CSS Basics](tuts/03c_introToHTMLCSS)
