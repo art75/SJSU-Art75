@@ -72,6 +72,3 @@ etc.)
 be expanded to a medium three shot, four shot, etc.
 <br>
 <br>
-
-[Convention Examples from section 1](02e_ConventionExamples)
----
