@@ -373,6 +373,16 @@ Now that you can see the grey work area bar, you can select just the region of y
 ---
 
 ### ▼ Step-by-step guidelines for exporting
+
+*In a nutshell!
+Recommended export settings are:*
+
+format: H.264
+preset: Vimeo 1080p full HD
+<br>
+
+Step-by-step:
+
 ![Export Media](assets/Premiere_exporting_02.png)
 
 ![Open H.264 Preset menu](assets/Premiere_exporting_03.png)
