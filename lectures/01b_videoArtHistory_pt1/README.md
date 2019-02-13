@@ -7,10 +7,10 @@
 
 ### Readings
 
-* [Kate Horsfield: *Busting The Tube: A Brief History of Video Art*](../../readings/*horsfield_busting-the-tube_brief-history-of-video-art.pdf) (required)
-* [Martha Rosler: *Video: Shedding the Utopian Moment*](../../readings/rosler_sheddingUtopianMoment.pdf)
-* [Marita Sturken: *Paradox in the Evolution of an Art Form: Great Expectations and the Making of a History*](../../readings/sturken_paradox.pdf)
-* [Sylvia Martin: *Video Art*](../../readings/martin_video-art-history.pdf)
+* [Kate Horsfield: *Busting The Tube: A Brief History of Video Art*](../../resources/readings/*horsfield_busting-the-tube_brief-history-of-video-art.pdf) 
+* [Martha Rosler: *Video: Shedding the Utopian Moment*](../../resources/readings/rosler_sheddingUtopianMoment.pdf)
+* [Marita Sturken: *Paradox in the Evolution of an Art Form: Great Expectations and the Making of a History*](../../resources/readings/sturken_paradox.pdf)
+* [Sylvia Martin: *Video Art*](../../resources/readings/martin_video-art-history.pdf)
 
 <br>
 <br>
