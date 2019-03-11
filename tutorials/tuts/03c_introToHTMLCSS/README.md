@@ -44,7 +44,6 @@
 
 -   **5 Rules your MUST follow when naming files:**
     -   No Spaces in Your Filenames
-    -   Use Only Lowercase Letters
     -   Do not use Special Characters
     -   Keep it Short and Clear
     -   Separate the Words in Your Filenames with Underscores<br>
