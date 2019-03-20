@@ -35,11 +35,13 @@ Check out links to suggested web tutorials on the [resources page](../resources)
 **Web Development Basics**
 * [HTML/CSS Basics](tuts/03c_introToHTMLCSS)
   * So many tips! Check out index at top!
+* [More CSS/HTML: Favicons, custom domains, SEO, Fonts, Colors, Link Mouse-Over](tuts/03d_moreHTMLCSS)
 * [Embedding images (resizing for web)](tuts/03f_embeddingImages)
 * [Embedding video from Vimeo and Youtube](tuts/03g_embeddingVideo_vimeoYouTube)
 * [Using the HTML Video Tag to host video on your site (prepping video files)](tuts/03h_HTML5-video-tag)
 * [Creating GIFs from Video in Photoshop](tuts/03f_photoshopGifsFromVideo)
-* [More CSS/HTML: Favicons, custom domains, SEO, Fonts, Colors, Link Mouse-Over, and libraries to help](tuts/03d_moreHTMLCSS)
+* [Templates and Twitter Bootstrap](tuts/03i_templatesBootstrap)
+
 
 
 **Portfolio Website**
@@ -48,8 +50,8 @@ Check out links to suggested web tutorials on the [resources page](../resources)
 * [Portfolio Website Content Guides](tuts/03e_WebPortfolio_Content)
   * [Artist Statements & Descriptions](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03e_WebPortfolio_Content#artist-statements)
 
-**Net Art Project**
-* [Creating a GitHub page to host your net art/project 3](tuts/04a_netArt_repositorySetup)
+**Critical Interactivity Project**
+* [Creating a GitHub page to host your Project 3](tuts/04a_netArt_repositorySetup)
 * [See demos and download code](https://art75.github.io/)
 * [Interactive Video with P5](tuts/05h_interactiveVideoWithP5)
 

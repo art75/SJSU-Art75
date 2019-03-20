@@ -1,6 +1,6 @@
 
 # More HTML/CSS 👏👾🤓
-## Favicons, Custom Domains, libraries, and Search Engine Optimization (SEO)
+## Favicons, Custom Domains, color, fonts, link hover color
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
