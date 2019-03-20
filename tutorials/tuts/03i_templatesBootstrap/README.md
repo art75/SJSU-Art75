@@ -1,12 +1,14 @@
 
-# More HTML/CSS 👏👾🤓
-## Favicons, Custom Domains, libraries, and Search Engine Optimization (SEO)
+# Templates and Twitter Bootstrap 👏👾🤓
+## Favicons, Custom Domains, libraries, and Search Engine
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
 
 
-Try the Bootstrap puzzle...!  Download files [here](bootstrapPuzzle.zip).
+### *Try the Bootstrap puzzle...!  Download files [here](bootstrapPuzzle.zip).*
+
+<br>
 
 
 # ▼△▼△▼ Using frameworks and templates for your CSS styling
