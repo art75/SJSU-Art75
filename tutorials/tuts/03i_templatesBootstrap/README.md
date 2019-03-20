@@ -56,7 +56,36 @@ Then grids are easy! You can just plug in Bootstrap class names to build out you
         </div>
     </div>
 
-To make them responsive, you can get way more detailed. To learn more, check out the [Bootstrap documentation guides](https://getbootstrap.com/docs/4.1/layout/grid/) or check out the tutorials below.
+If you wanted to specify widths of the column, you can add numbers to the col class. The numbers add up to 12, which represents the full width of the row.
+
+The code below has one row with 3 columns. The first column (col-8) is 3/4th the width (8/12), and the last two (col-2) are 1/6th of the width.
+
+<div class="container">
+    <div class="row">
+      <div class="col-8"></div>
+      <div class="col-2"></div>
+      <div class="col-2"></div>
+    </div>
+    <div class="row">
+      <div class="col-4"></div>
+      <div class="col-8"></div>
+    </div>
+</div>
+
+
+To make them responsive, you can set breakpoints. These are well-documented in the [Bootstrap documentation guides](https://getbootstrap.com/docs/4.1/layout/grid/).
+
+In the example below, the columns are by default 1/2 the size of the row (col-6), BUT once the screen is larger than the medium breakpont, they shrink to be 1/3 of the width.
+
+<div class="container">
+    <div class="row">
+      <div class="col-6 col-md-4"></div>
+      <div class="col-6 col-md-4"></div>
+      <div class="col-6 col-md-4"></div>
+    </div>
+</div>
+
+
 
 Tutorials:
 * [Lynda Bootstrap 4 Essential Training](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html). You can learn a lot in just the first 2 chapters (~1hr of tutorials)
