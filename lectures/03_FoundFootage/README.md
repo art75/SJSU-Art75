@@ -5,7 +5,7 @@
 ## ▼△▼△▼△▼ Video Art & Found Footage
 
 **Additional Resources:** <br>
-[Tutorial on Using Found Footage](https://github.com/art75/SJSU-art75/tree/master/tutorials/Creative_Commons)
+[Tutorial on Using Found Footage](../../tutorials/tuts/Creative_Commons)
 
 [![Found Footage](images/Art74_VideoArt_FoundFootage.002.jpeg)](thewayblackmachine.com/)
 
