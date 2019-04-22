@@ -18,7 +18,7 @@
 
 ![Creative Commons](images/Art74_AudacityGuide_SoundArt.005.jpeg)
 
-![Creative Commons](images/Art74_AudacityGuide_SoundArt.006.jpeg)
+![Creative Commons](images/Art74_AudacityGuide_SoundArt.006-5.png)
 
 ![Creative Commons](images/Art74_AudacityGuide_SoundArt.007.jpeg)
 
@@ -43,6 +43,7 @@
 
 ##### Downloading Video from YouTube
 
+* FIRST do a search, then select "filter results"
 * Copy the YouTube video's URL into a web service like:
   * [y2Mate](https://y2mate.com/)
   * [Online Video Converter](https://www.onlinevideoconverter.com/video-converter)
@@ -50,7 +51,8 @@
 
 ##### Downlading Audio & Sound FX
 
-* Soundcloud: Filter for content in Creative Commons, download through [this site](http://9soundclouddownloader.com/download-sound-track).
+* Soundcloud: (see above) Filter for content in Creative Commons, download through 'more' menu.
+  - If starting from Soundcloud site (not Creative Commons. First do a search then select "tracks" to see the filter resuts > copyright settings)
 * Websites:
   * [Free Music Archive](http://freemusicarchive.org/)
     - [field recordings](http://freemusicarchive.org/genre/Field_Recordings/)

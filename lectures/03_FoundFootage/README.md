@@ -23,7 +23,6 @@
 
 [![Found Footage](images/Art74_VideoArt_FoundFootage.009.jpeg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
 
-[![Tracey Moffatt](images/Art74_VideoArt_FoundFootage.009.jpeg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
 
 
 <br>
