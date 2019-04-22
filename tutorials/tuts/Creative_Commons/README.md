@@ -48,6 +48,7 @@
   * [y2Mate](https://y2mate.com/)
   * [Online Video Converter](https://www.onlinevideoconverter.com/video-converter)
   * --> Make sure you set the file format to be mp4 video
+  * --> Select resolution under "more settings", you want highest resolution possible
 
 ##### Downlading Audio & Sound FX
 
