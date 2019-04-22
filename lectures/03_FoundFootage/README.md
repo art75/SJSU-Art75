@@ -23,6 +23,22 @@
 
 [![Found Footage](images/Art74_VideoArt_FoundFootage.009.jpeg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
 
+[![Tracey Moffatt](images/Art74_VideoArt_FoundFootage.009.jpeg)](https://www.youtube.com/watch?v=BXbQw0rE5UE)
+
+
+<br>
+[![Tracey Moffatt](images/traceyMoffatt_love.png)](http://thehumancondition.ru/en/exhibition2/moffatt)
+
+Tracey Moffatt *Love*, 2003
+Found footage montage on video and DVD, 20:51 min
+
+"Love" is made entirely from clips of love scenes from Hollywood films, calling to light the (sub)conscious ideals of love ingrained by popular media. Beginning with sentimental scenes and ending with clips of conflict, the video illustrates how love in historical Hollywood is paired with violence of men against women.
+
+<br>
+______
+
+### Digital Manipulation of Found Footage
+
 [![Found Footage](images/Art74_VideoArt_FoundFootage.010.jpeg)](https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe)
 
 [![Found Footage](images/Art74_VideoArt_FoundFootage.011.jpeg)](http://theghostinthemp3.com/theghostinthemp3.html)

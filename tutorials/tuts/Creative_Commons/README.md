@@ -7,12 +7,14 @@
 
 ![Creative Commons](images/Art74_Composite_2.010.jpeg)
 
-![Creative Commons](images/Art74_Composite_2.011.jpeg)
+<!-- ![Creative Commons](images/Art74_Composite_2.011.jpeg) -->
 
 
  <br>
 
-**Creative Commons for Sourcing Material online**
+### Sourcing Material online
+
+**Sourcing Material online through Creative Commons website**
 
 ![Creative Commons](images/Art74_AudacityGuide_SoundArt.005.jpeg)
 
