@@ -4,6 +4,7 @@
 -->[Mad Mapper online tutorials here](https://madmapper.com/tutorials)
 <br>
 -->[Free & Open Source projection mapping program Touch Designer](https://www.derivative.ca/)
+--> [Download Step-by-step slides for using VPT in this Zip folder](VPT8_TutorialSlides.zip)
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br>
@@ -32,7 +33,7 @@ Mad Mapper is a great projection mapping program that allows you to import your 
 ![Mapper](images/mapper_5.png)
 
 ![Mapper](images/mapper_6.png)
-*  Your video will play in the Preview monitor. 
+*  Your video will play in the Preview monitor.
 
 ![Mapper](images/mapper_7.png)
 * On the left, you can begin with a designated shape on the menu and then adjust from there.

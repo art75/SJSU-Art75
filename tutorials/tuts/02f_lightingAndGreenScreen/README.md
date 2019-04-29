@@ -189,7 +189,9 @@ Ideally you would have four or more lights to light a green screen: 2-3 for your
 
 Premiere's ***ULTRA KEY*** effect is a very effective tool. For more fine tuning, you can use ***Keylight*** in After Effects.
 
-Follow this [**ULTRA KEY TUTORIAL**](https://photofocus.com/2018/03/07/how-to-key-greenscreen-video-in-adobe-premiere-pro/) --> it is pretty easy to use.
+For step-by-step instuctions - download [this ZIP Folder for pics of the slides](greenScreenKey-premiere-AE.zip).
+
+
 
 
 <br>
