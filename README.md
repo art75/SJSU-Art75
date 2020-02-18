@@ -26,9 +26,9 @@
 
 <br>
 
-| Instructor 🤓 | Syllabi 🎳 |
+| 🤓 | Syllabi 🎳 |
 | -------------------------- | ----------------- |
-| ***Lark Alder*** <br> **Office Location:** Art 323 <br> **Office Hours:** Tuesdays 2-3:30pm or by appointment <br> **Email:** lark.buckingham@sjsu.edu <br> |   [Section 4 Syllabus PDF](resources/files/Syllabus_Alder_ART75_section4_Spr19.pdf) <br> [Section 5 Syllabus PDF](files/Syllabus_Alder_ART75_section5_Spr19.pdf)
+  [Section 4 Syllabus PDF](resources/files/Syllabus_Alder_ART75_section4_Spr19.pdf) <br> [Section 5 Syllabus PDF](files/Syllabus_Alder_ART75_section5_Spr19.pdf)
 
 <br>
 
