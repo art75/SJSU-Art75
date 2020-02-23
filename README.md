@@ -1,6 +1,6 @@
 # INTRO TO DIGITAL VIDEO ART
 
-#### .・゜:✧･ﾟ: *✧･ﾟ:* SJSU Art 75 | Spring 2019 *:･ﾟ✧*:･ﾟ✧
+#### .・゜:✧･ﾟ: *✧･ﾟ:* SJSU Art 75 | Spring 2019  (archived) *:･ﾟ✧*:･ﾟ✧
 <br>
 
  #### ***[lectures](/lectures) - - - [readings](/readings) - - - [resources](/resources) - - - [tutorials](/tutorials)***
